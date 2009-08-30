@@ -115,6 +115,8 @@ improvement and the code is kept clean and small.
   homepage or by mail at  enrico.ros@gmail.com ;-)
 
 ### Current Wishlist
+
+* mosaic effect: from 1 picture to a grid of misaligned pics
 * svg drawings [balloons, signs, etc..]
 * masked pic
 * both new and old resize&co
